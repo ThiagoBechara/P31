@@ -1,1 +1,1 @@
-# P31
+# pinko1-modelo
